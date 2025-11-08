@@ -29,7 +29,7 @@ const Navbar = () => {
             </div>
             <div className="relative">
               <h1 className="text-4xl font-bold bg-linear-to-r from-orange-500 via-red-500 to-yellow-500 bg-clip-text text-transparent group-hover:from-red-600 group-hover:via-orange-600 group-hover:to-yellow-400 transition-all duration-500 animate-pulse">
-                NICK
+                ANKIT
               </h1>
               {/* Flame effect on hover */}
               <div className="absolute -top-1 left-0 right-0 h-2 bg-linear-to-r from-transparent via-orange-500 to-transparent opacity-0 group-hover:opacity-100 blur-sm transition-opacity duration-300"></div>
